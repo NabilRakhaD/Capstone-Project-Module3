@@ -28,4 +28,4 @@ Type 1 error : False Negative <br>
 Nasabah terprediksi tidak akan mendeposit tetapi ternyata mendeposit <br>
 Bank akan kehilangan calon nasabah yang berpotensi mendeposit uang
 
-Untuk meminimalkan biaya kampanye dengan mengurangi kesalahan prediksi nasabah yang tidak deposito (False Positive) dan memaksimalkan prediksi nasabah potensial, model akan dievaluasi menggunakan ROC AUC dan confusion matrix.
+Untuk meminimalkan biaya kampanye dengan mengurangi kesalahan prediksi nasabah yang tidak deposito (False Positive) dan tetap memperhatikan prediksi nasabah potensial, model akan dievaluasi menggunakan ROC AUC dan confusion matrix.
